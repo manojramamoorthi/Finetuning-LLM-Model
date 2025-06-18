@@ -40,5 +40,5 @@ response = model.generate(input_ids=inputs, max_new_tokens=256)
 Try fine-tuning it yourself & accelerate **physics AI tutoring**! 🚀  
 Let me know if you need additional optimizations!
 
-![image](https://github.com/manojramamoorthi/Finetuning-Model/blob/main/Screenshot%202025-06-10%20152743.png)
-![image](https://github.com/manojramamoorthi/Finetuning-Model/blob/main/Screenshot%202025-06-10%20152840.png)
+![image](https://github.com/manojramamoorthi/Finetuning-LLM-Model/blob/main/Screenshot%202025-06-10%20152743.png)
+![image](https://github.com/manojramamoorthi/Finetuning-LLM-Model/blob/main/Screenshot%202025-06-10%20152840.png)
